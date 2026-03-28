@@ -23,6 +23,8 @@
 ## 🚀 Projects
 
 - 🌡️ [Temperature Converter](https://github.com/Sothonp/Temp-Converter)
+- 🛒 [Ecommerce](https://github.com/Sothonp/my-first-ecommerce-)
+- ☕ [Coffee website](https://github.com/Sothonp/Cafe-shop)
 
 
 ---
