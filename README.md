@@ -2,7 +2,7 @@
 
 💻 Web Developer  
 🌱 Currently majoring in a dual degree in Computer Science / Information Technology Management
-🚀 Building small projects to improve my skills  
+🚀 Building projects to improve my skills  
 
 ---
 
